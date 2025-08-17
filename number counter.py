@@ -18,3 +18,4 @@ self.pub.publish(total_msg)
 if __name__ == ’__main__’:
 counter = NumberCounter()
 rospy.spin()
+
